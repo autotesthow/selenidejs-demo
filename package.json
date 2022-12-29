@@ -1,0 +1,18 @@
+{
+  "type": "module",
+  "name": "selenidejs-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Iakiv Kramarenko",
+  "license": "MIT",
+  "devDependencies": {
+    "chromedriver": "^108.0.0",
+    "geckodriver": "^3.2.0",
+    "selenidejs": "^1.4.0"
+  }
+}
