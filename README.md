@@ -20,7 +20,6 @@ This [code in JavaScript](https://github.com/autotesthow/selenidejs-demo) comes 
 ## Prerequisites
 
 * [NodeJs](https://nodejs.org/en/download/current/)
-* [Git](https://git-scm.com/)
 * [Chrome Browser](https://www.google.com/chrome/)
 * [Visual Studio Code](https://code.visualstudio.com/)
   * you must install also the «code» command to run the editor directly from the terminal: when opened Visual Studio Code, in the Menu «View» -> «Command Palette» (Ctrl+Shift+P on Windows or Command+Shift+P on Mac) type «shell command» and select «install 'code' command in Path» and press Enter
@@ -96,7 +95,7 @@ Ensure you installed everything from the Prerequisites section and additinally i
 Open your unix terminal (or at least git bash on Windows) and execute the following commands(just copy&paste everything into the terminal and press Enter):
 
 ```bash
-git clone git@github.com:yashaka/selenidejs-demo.git selenidejs-demo \
+git clone git@github.com:autotesthow/selenidejs-demo.git selenidejs-demo \
 && cd $_ \
 && npm install \
 && code .
